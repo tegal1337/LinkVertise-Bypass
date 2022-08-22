@@ -12,7 +12,9 @@ Bypass LinkVertise.com
 
 ## How To Use :
 - python main.py [options] [link]
-Example Download From Single Link:
-- python main.py single linkvertise.com
-Example Download Mass Link From File
-- python main.py mass link.txt (Contain linkvertise seperated by enter / "\n")
+
+##### Example Download From Single Link:
+ - python main.py single linkvertise.com
+
+##### Example Download Mass Link From File
+ - python main.py mass link.txt (Contain linkvertise seperated by enter / "\n")
